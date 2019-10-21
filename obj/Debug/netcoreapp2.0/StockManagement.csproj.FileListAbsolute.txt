@@ -1,0 +1,66 @@
+/Users/vanessafernandesdecarvalho/OneDrive - Deakin University/SIT771 - Object-Oriented Development/2.2/StockManagement/bin/Debug/netcoreapp2.0/StockManagement.deps.json
+/Users/vanessafernandesdecarvalho/OneDrive - Deakin University/SIT771 - Object-Oriented Development/2.2/StockManagement/bin/Debug/netcoreapp2.0/StockManagement.runtimeconfig.json
+/Users/vanessafernandesdecarvalho/OneDrive - Deakin University/SIT771 - Object-Oriented Development/2.2/StockManagement/bin/Debug/netcoreapp2.0/StockManagement.runtimeconfig.dev.json
+/Users/vanessafernandesdecarvalho/OneDrive - Deakin University/SIT771 - Object-Oriented Development/2.2/StockManagement/bin/Debug/netcoreapp2.0/StockManagement.dll
+/Users/vanessafernandesdecarvalho/OneDrive - Deakin University/SIT771 - Object-Oriented Development/2.2/StockManagement/bin/Debug/netcoreapp2.0/StockManagement.pdb
+/Users/vanessafernandesdecarvalho/OneDrive - Deakin University/SIT771 - Object-Oriented Development/2.2/StockManagement/obj/Debug/netcoreapp2.0/StockManagement.csprojAssemblyReference.cache
+/Users/vanessafernandesdecarvalho/OneDrive - Deakin University/SIT771 - Object-Oriented Development/2.2/StockManagement/obj/Debug/netcoreapp2.0/StockManagement.csproj.CoreCompileInputs.cache
+/Users/vanessafernandesdecarvalho/OneDrive - Deakin University/SIT771 - Object-Oriented Development/2.2/StockManagement/obj/Debug/netcoreapp2.0/StockManagement.AssemblyInfoInputs.cache
+/Users/vanessafernandesdecarvalho/OneDrive - Deakin University/SIT771 - Object-Oriented Development/2.2/StockManagement/obj/Debug/netcoreapp2.0/StockManagement.AssemblyInfo.cs
+/Users/vanessafernandesdecarvalho/OneDrive - Deakin University/SIT771 - Object-Oriented Development/2.2/StockManagement/obj/Debug/netcoreapp2.0/StockManagement.dll
+/Users/vanessafernandesdecarvalho/OneDrive - Deakin University/SIT771 - Object-Oriented Development/2.2/StockManagement/obj/Debug/netcoreapp2.0/StockManagement.pdb
+/Users/vanessafernandesdecarvalho/OneDrive - Deakin University/SIT771 - Object-Oriented Development/3.2/StockManagement/bin/Debug/netcoreapp2.0/StockManagement.deps.json
+/Users/vanessafernandesdecarvalho/OneDrive - Deakin University/SIT771 - Object-Oriented Development/3.2/StockManagement/bin/Debug/netcoreapp2.0/StockManagement.runtimeconfig.json
+/Users/vanessafernandesdecarvalho/OneDrive - Deakin University/SIT771 - Object-Oriented Development/3.2/StockManagement/bin/Debug/netcoreapp2.0/StockManagement.runtimeconfig.dev.json
+/Users/vanessafernandesdecarvalho/OneDrive - Deakin University/SIT771 - Object-Oriented Development/3.2/StockManagement/bin/Debug/netcoreapp2.0/StockManagement.dll
+/Users/vanessafernandesdecarvalho/OneDrive - Deakin University/SIT771 - Object-Oriented Development/3.2/StockManagement/bin/Debug/netcoreapp2.0/StockManagement.pdb
+/Users/vanessafernandesdecarvalho/OneDrive - Deakin University/SIT771 - Object-Oriented Development/3.2/StockManagement/obj/Debug/netcoreapp2.0/StockManagement.csprojAssemblyReference.cache
+/Users/vanessafernandesdecarvalho/OneDrive - Deakin University/SIT771 - Object-Oriented Development/3.2/StockManagement/obj/Debug/netcoreapp2.0/StockManagement.csproj.CoreCompileInputs.cache
+/Users/vanessafernandesdecarvalho/OneDrive - Deakin University/SIT771 - Object-Oriented Development/3.2/StockManagement/obj/Debug/netcoreapp2.0/StockManagement.AssemblyInfoInputs.cache
+/Users/vanessafernandesdecarvalho/OneDrive - Deakin University/SIT771 - Object-Oriented Development/3.2/StockManagement/obj/Debug/netcoreapp2.0/StockManagement.AssemblyInfo.cs
+/Users/vanessafernandesdecarvalho/OneDrive - Deakin University/SIT771 - Object-Oriented Development/3.2/StockManagement/obj/Debug/netcoreapp2.0/StockManagement.dll
+/Users/vanessafernandesdecarvalho/OneDrive - Deakin University/SIT771 - Object-Oriented Development/3.2/StockManagement/obj/Debug/netcoreapp2.0/StockManagement.pdb
+/Users/vanessafernandesdecarvalho/OneDrive - Deakin University/SIT771 - Object-Oriented Development/4.1/StockManagement/obj/Debug/netcoreapp2.0/StockManagement.csprojAssemblyReference.cache
+/Users/vanessafernandesdecarvalho/OneDrive - Deakin University/SIT771 - Object-Oriented Development/4.1/StockManagement/obj/Debug/netcoreapp2.0/StockManagement.csproj.CoreCompileInputs.cache
+/Users/vanessafernandesdecarvalho/OneDrive - Deakin University/SIT771 - Object-Oriented Development/4.1/StockManagement/obj/Debug/netcoreapp2.0/StockManagement.AssemblyInfoInputs.cache
+/Users/vanessafernandesdecarvalho/OneDrive - Deakin University/SIT771 - Object-Oriented Development/4.1/StockManagement/obj/Debug/netcoreapp2.0/StockManagement.AssemblyInfo.cs
+/Users/vanessafernandesdecarvalho/OneDrive - Deakin University/SIT771 - Object-Oriented Development/4.1/StockManagement/obj/Debug/netcoreapp2.0/StockManagement.dll
+/Users/vanessafernandesdecarvalho/OneDrive - Deakin University/SIT771 - Object-Oriented Development/4.1/StockManagement/obj/Debug/netcoreapp2.0/StockManagement.pdb
+/Users/vanessafernandesdecarvalho/OneDrive - Deakin University/SIT771 - Object-Oriented Development/4.1/StockManagement/bin/Debug/netcoreapp2.0/StockManagement.deps.json
+/Users/vanessafernandesdecarvalho/OneDrive - Deakin University/SIT771 - Object-Oriented Development/4.1/StockManagement/bin/Debug/netcoreapp2.0/StockManagement.runtimeconfig.json
+/Users/vanessafernandesdecarvalho/OneDrive - Deakin University/SIT771 - Object-Oriented Development/4.1/StockManagement/bin/Debug/netcoreapp2.0/StockManagement.runtimeconfig.dev.json
+/Users/vanessafernandesdecarvalho/OneDrive - Deakin University/SIT771 - Object-Oriented Development/4.1/StockManagement/bin/Debug/netcoreapp2.0/StockManagement.dll
+/Users/vanessafernandesdecarvalho/OneDrive - Deakin University/SIT771 - Object-Oriented Development/4.1/StockManagement/bin/Debug/netcoreapp2.0/StockManagement.pdb
+/Users/vanessafernandesdecarvalho/OneDrive - Deakin University/SIT771 - Object-Oriented Development/5.3/StockManagement/obj/Debug/netcoreapp2.0/StockManagement.csprojAssemblyReference.cache
+/Users/vanessafernandesdecarvalho/OneDrive - Deakin University/SIT771 - Object-Oriented Development/5.3/StockManagement/obj/Debug/netcoreapp2.0/StockManagement.csproj.CoreCompileInputs.cache
+/Users/vanessafernandesdecarvalho/OneDrive - Deakin University/SIT771 - Object-Oriented Development/5.3/StockManagement/obj/Debug/netcoreapp2.0/StockManagement.AssemblyInfoInputs.cache
+/Users/vanessafernandesdecarvalho/OneDrive - Deakin University/SIT771 - Object-Oriented Development/5.3/StockManagement/obj/Debug/netcoreapp2.0/StockManagement.AssemblyInfo.cs
+/Users/vanessafernandesdecarvalho/OneDrive - Deakin University/SIT771 - Object-Oriented Development/5.3/StockManagement/obj/Debug/netcoreapp2.0/StockManagement.dll
+/Users/vanessafernandesdecarvalho/OneDrive - Deakin University/SIT771 - Object-Oriented Development/5.3/StockManagement/obj/Debug/netcoreapp2.0/StockManagement.pdb
+/Users/vanessafernandesdecarvalho/OneDrive - Deakin University/SIT771 - Object-Oriented Development/5.3/StockManagement/bin/Debug/netcoreapp2.0/StockManagement.deps.json
+/Users/vanessafernandesdecarvalho/OneDrive - Deakin University/SIT771 - Object-Oriented Development/5.3/StockManagement/bin/Debug/netcoreapp2.0/StockManagement.runtimeconfig.json
+/Users/vanessafernandesdecarvalho/OneDrive - Deakin University/SIT771 - Object-Oriented Development/5.3/StockManagement/bin/Debug/netcoreapp2.0/StockManagement.runtimeconfig.dev.json
+/Users/vanessafernandesdecarvalho/OneDrive - Deakin University/SIT771 - Object-Oriented Development/5.3/StockManagement/bin/Debug/netcoreapp2.0/StockManagement.dll
+/Users/vanessafernandesdecarvalho/OneDrive - Deakin University/SIT771 - Object-Oriented Development/5.3/StockManagement/bin/Debug/netcoreapp2.0/StockManagement.pdb
+/Users/vanessafernandesdecarvalho/OneDrive - Deakin University/SIT771 - Object-Oriented Development/7.1/StockManagement/bin/Debug/netcoreapp2.0/StockManagement.deps.json
+/Users/vanessafernandesdecarvalho/OneDrive - Deakin University/SIT771 - Object-Oriented Development/7.1/StockManagement/bin/Debug/netcoreapp2.0/StockManagement.runtimeconfig.json
+/Users/vanessafernandesdecarvalho/OneDrive - Deakin University/SIT771 - Object-Oriented Development/7.1/StockManagement/bin/Debug/netcoreapp2.0/StockManagement.runtimeconfig.dev.json
+/Users/vanessafernandesdecarvalho/OneDrive - Deakin University/SIT771 - Object-Oriented Development/7.1/StockManagement/bin/Debug/netcoreapp2.0/StockManagement.dll
+/Users/vanessafernandesdecarvalho/OneDrive - Deakin University/SIT771 - Object-Oriented Development/7.1/StockManagement/bin/Debug/netcoreapp2.0/StockManagement.pdb
+/Users/vanessafernandesdecarvalho/OneDrive - Deakin University/SIT771 - Object-Oriented Development/7.1/StockManagement/obj/Debug/netcoreapp2.0/StockManagement.csprojAssemblyReference.cache
+/Users/vanessafernandesdecarvalho/OneDrive - Deakin University/SIT771 - Object-Oriented Development/7.1/StockManagement/obj/Debug/netcoreapp2.0/StockManagement.csproj.CoreCompileInputs.cache
+/Users/vanessafernandesdecarvalho/OneDrive - Deakin University/SIT771 - Object-Oriented Development/7.1/StockManagement/obj/Debug/netcoreapp2.0/StockManagement.AssemblyInfoInputs.cache
+/Users/vanessafernandesdecarvalho/OneDrive - Deakin University/SIT771 - Object-Oriented Development/7.1/StockManagement/obj/Debug/netcoreapp2.0/StockManagement.AssemblyInfo.cs
+/Users/vanessafernandesdecarvalho/OneDrive - Deakin University/SIT771 - Object-Oriented Development/7.1/StockManagement/obj/Debug/netcoreapp2.0/StockManagement.dll
+/Users/vanessafernandesdecarvalho/OneDrive - Deakin University/SIT771 - Object-Oriented Development/7.1/StockManagement/obj/Debug/netcoreapp2.0/StockManagement.pdb
+/Users/vanessafernandesdecarvalho/git/Stock-Management/bin/Debug/netcoreapp2.0/StockManagement.deps.json
+/Users/vanessafernandesdecarvalho/git/Stock-Management/bin/Debug/netcoreapp2.0/StockManagement.runtimeconfig.json
+/Users/vanessafernandesdecarvalho/git/Stock-Management/bin/Debug/netcoreapp2.0/StockManagement.runtimeconfig.dev.json
+/Users/vanessafernandesdecarvalho/git/Stock-Management/bin/Debug/netcoreapp2.0/StockManagement.dll
+/Users/vanessafernandesdecarvalho/git/Stock-Management/bin/Debug/netcoreapp2.0/StockManagement.pdb
+/Users/vanessafernandesdecarvalho/git/Stock-Management/obj/Debug/netcoreapp2.0/StockManagement.csprojAssemblyReference.cache
+/Users/vanessafernandesdecarvalho/git/Stock-Management/obj/Debug/netcoreapp2.0/StockManagement.csproj.CoreCompileInputs.cache
+/Users/vanessafernandesdecarvalho/git/Stock-Management/obj/Debug/netcoreapp2.0/StockManagement.AssemblyInfoInputs.cache
+/Users/vanessafernandesdecarvalho/git/Stock-Management/obj/Debug/netcoreapp2.0/StockManagement.AssemblyInfo.cs
+/Users/vanessafernandesdecarvalho/git/Stock-Management/obj/Debug/netcoreapp2.0/StockManagement.dll
+/Users/vanessafernandesdecarvalho/git/Stock-Management/obj/Debug/netcoreapp2.0/StockManagement.pdb
